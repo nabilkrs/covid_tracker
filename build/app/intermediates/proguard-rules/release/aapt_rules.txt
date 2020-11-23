@@ -1,0 +1,6 @@
+# Referenced at C:\Users\Nabeel\Documents\covid_tracker\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Nabeel\Documents\covid_tracker\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:24
+-keep class com.example.covid_tracker.MainActivity { <init>(); }
+# Referenced at C:\Users\Nabeel\Documents\covid_tracker\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }

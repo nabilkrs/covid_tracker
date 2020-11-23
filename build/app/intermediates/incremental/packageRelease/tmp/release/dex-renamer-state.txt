@@ -1,0 +1,4 @@
+#Mon Nov 23 11:49:55 GMT+01:00 2020
+base.0=C\:\\Users\\Nabeel\\Documents\\covid_tracker\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
